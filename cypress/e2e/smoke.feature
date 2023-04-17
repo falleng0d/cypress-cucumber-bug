@@ -1,4 +1,4 @@
-@edge
+@cloud
 Feature: Smoke test
 
   Scenario: Smoke test
