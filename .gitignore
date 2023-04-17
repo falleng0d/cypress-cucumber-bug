@@ -1,0 +1,9 @@
+videos/
+screenshots/
+results/
+node_modules/
+/cypress/fixtures/users/
+cypress/scripts/generated
+.idea
+cucumber-messages.ndjson
+.vscode
